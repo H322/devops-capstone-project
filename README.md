@@ -29,6 +29,7 @@ After sourcing it you prompt should look like this:
 (venv) theia:project$
 ```
 
+
 ## Useful commands
 
 Under normal circumstances you should not have to run these commands. They are performed automatically at setup but may be useful when things go wrong:
